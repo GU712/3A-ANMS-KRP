@@ -12,7 +12,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERVER LS - ANIMES FILMES - EM BREVE[/B][/COLOR]</name>
+<name>[COLOR white][B]SERVER LS -> ANIMES FILMES - EM BREVE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/3A-ANMS-KRP/main/A1-FILM-ANMS-KRP</externallink>
 <thumbnail>https://i.ibb.co/mvy36vN/ANMS-SERV-LS.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERVER LS - ANIMES SÉRIES UT[/B][/COLOR]</name>
+<name>[COLOR white][B]SERVER LS -> ANIMES SÉRIES UT[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/3A-ANMS-KRP/main/C-SRS-UT-ANMS-KRP</externallink>
 <thumbnail>https://i.ibb.co/mvy36vN/ANMS-SERV-LS.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERVER LS - ANIMES SÉRIES MT[/B][/COLOR]</name>
+<name>[COLOR white][B]SERVER LS -> ANIMES SÉRIES MT[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/3A-ANMS-KRP/main/B-SRS-ANMS-KRP</externallink>
 <thumbnail>https://i.ibb.co/mvy36vN/ANMS-SERV-LS.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
@@ -48,7 +48,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]TORRENTs - ANIMES SÉRIES[/B][/COLOR]</name>
+<name>[COLOR white][B]TORRENTs -> ANIMES SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/3A-ANMS-KRP/main/D-SRS-TORR-ANMS-KRP</externallink>
 <thumbnail>https://i.ibb.co/pv691dw/ANMS-TORR.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
